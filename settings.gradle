@@ -1,0 +1,2 @@
+rootProject.name = "FinPro1ToDoList"
+include ':app'
