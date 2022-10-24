@@ -8,4 +8,4 @@ Deskrpsi Program
 
 List Pembagian Tugas
 1. Create, List, Delete -> Maria
-2. Update, Repository Github -> Riska
+2. Update, Repository Github -> Nurrika Riskya
